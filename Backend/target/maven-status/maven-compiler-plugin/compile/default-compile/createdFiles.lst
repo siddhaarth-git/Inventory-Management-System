@@ -1,0 +1,10 @@
+com\example\inventory\entity\Product.class
+com\example\inventory\controller\ProductController.class
+com\example\inventory\repository\ProductRepository.class
+com\example\inventory\entity\User.class
+com\example\inventory\config\CorsConfig.class
+com\example\inventory\config\SwaggerConfig.class
+com\example\inventory\util\DataLoader.class
+com\example\inventory\repository\UserRepository.class
+com\example\inventory\SmartInventoryApplication.class
+com\example\inventory\config\CorsConfig$1.class

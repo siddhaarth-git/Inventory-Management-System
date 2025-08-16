@@ -1,0 +1,9 @@
+D:\Users\Ideapad\Desktop\Inventory Management System\Backend\src\main\java\com\example\inventory\config\CorsConfig.java
+D:\Users\Ideapad\Desktop\Inventory Management System\Backend\src\main\java\com\example\inventory\config\SwaggerConfig.java
+D:\Users\Ideapad\Desktop\Inventory Management System\Backend\src\main\java\com\example\inventory\controller\ProductController.java
+D:\Users\Ideapad\Desktop\Inventory Management System\Backend\src\main\java\com\example\inventory\entity\Product.java
+D:\Users\Ideapad\Desktop\Inventory Management System\Backend\src\main\java\com\example\inventory\entity\User.java
+D:\Users\Ideapad\Desktop\Inventory Management System\Backend\src\main\java\com\example\inventory\repository\ProductRepository.java
+D:\Users\Ideapad\Desktop\Inventory Management System\Backend\src\main\java\com\example\inventory\repository\UserRepository.java
+D:\Users\Ideapad\Desktop\Inventory Management System\Backend\src\main\java\com\example\inventory\SmartInventoryApplication.java
+D:\Users\Ideapad\Desktop\Inventory Management System\Backend\src\main\java\com\example\inventory\util\DataLoader.java
